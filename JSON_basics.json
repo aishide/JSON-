@@ -1,5 +1,9 @@
 JSON : 
-* JSON is a text format for storing and exchanging data.
+* JSON is a text format for send, receive and store data.
 * JSON stands for JavaScript Object Notation.
 * JSON syntax is similar to JavaScript object syntax.
 * JSON is language independent.
+
+JSON is integrated into JavaScript and many other programming languages : 
+1. The JSON.parse() method converts JSON text into JavaScript values.
+2. The JSON.stringify() method converts a JavaScript value into JSON text.

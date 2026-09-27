@@ -20,3 +20,11 @@ This JSON text describes a person object
 
 Properties are written as name/value pairs.
 
+
+
+Use of JSON: 
+* Sending data from a web server to a web page
+* Sending data from a web page to a server
+* Storing configuration data
+* Saving structured data in files
+* Exchanging data between applications

@@ -17,3 +17,6 @@ This JSON text describes a person object
   "age": 30,
   "city": "New York"
 }
+
+Properties are written as name/value pairs.
+

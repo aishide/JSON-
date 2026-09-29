@@ -28,3 +28,19 @@ Use of JSON:
 * Storing configuration data
 * Saving structured data in files
 * Exchanging data between applications
+
+
+JavaScript Object and JSON are similar here is the comparison : 
+1. Java Script Object :-
+const person = {
+  name: "John",
+  age: 30,
+  city: "New York"
+};
+
+2. JSON :- 
+{
+  "name": "John",
+  "age": 30,
+  "city": "New York"
+}

@@ -59,3 +59,10 @@ const person = {
 }
 
 
+The value can be:
+An Object
+An Array
+A String
+A Number
+A Boolean
+or null

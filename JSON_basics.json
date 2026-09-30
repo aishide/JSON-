@@ -9,6 +9,19 @@ JSON is integrated into JavaScript and many other programming languages :
 2. The JSON.stringify() method converts a JavaScript value into JSON text.
 
 
+
+JSON text
+🠇
+JSON.parse()
+🠇
+JavaScript value
+🠇
+JSON.stringify()
+🠇
+JSON text
+
+
+
 JSON Example: 
 This JSON text describes a person object
 
@@ -44,3 +57,5 @@ const person = {
   "age": 30,
   "city": "New York"
 }
+
+

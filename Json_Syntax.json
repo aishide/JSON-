@@ -1,1 +1,8 @@
+JSON syntax is derived from JavaScript object notation syntax:
 
+* Curly braces hold objects
+* Properties comes is in name/value pairs
+* Properties are separated by commas
+* Square brackets hold arrays
+* Strings are in double quotes
+* But, JSON has stricter syntax rules than JavaScript objects.

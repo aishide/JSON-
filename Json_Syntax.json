@@ -6,3 +6,11 @@ JSON syntax is derived from JavaScript object notation syntax:
 * Square brackets hold arrays
 * Strings are in double quotes
 * But, JSON has stricter syntax rules than JavaScript objects.
+
+
+
+1. A JSON object is written between curly braces { }.
+2. An object contains zero or more properties.
+3. Properties comes in key/value pairs separated by commas.
+4. key names are strings enclosed in double quotes.
+5. Keys and values are separated by a colon.

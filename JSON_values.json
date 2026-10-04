@@ -1,0 +1,7 @@
+Type	Example
+String	"Aishi"
+Number	24
+Object	{"name":"Aishi"}
+Array	["red","blue"]
+Boolean	true
+Null	null

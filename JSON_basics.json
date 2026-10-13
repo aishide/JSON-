@@ -9,6 +9,13 @@ JSON is integrated into JavaScript and many other programming languages :
 2. The JSON.stringify() method converts a JavaScript value into JSON text.
 
 
+# The JSON.parse() Method
+The JSON.parse() method converts JSON text into a JavaScript value.
+After parsing, the value can be used like any other JavaScript value.
+
+
+
+
 
 JSON text
 🠇

@@ -3,3 +3,10 @@
 JSON is often stored in files or returned by calls to web servers.
 JavaScript can load JSON and convert it into JavaScript values.
 The modern way to load JSON is with the fetch() method.
+
+
+JSON files normally use the .json extension
+
+Use the fetch() method to request the JSON file.
+The response.json() method parses the JSON text and returns a JavaScript value.
+

@@ -1,0 +1,5 @@
+# The fetch() Method
+
+JSON is often stored in files or returned by calls to web servers.
+JavaScript can load JSON and convert it into JavaScript values.
+The modern way to load JSON is with the fetch() method.

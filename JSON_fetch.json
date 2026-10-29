@@ -40,3 +40,15 @@ function myDisplayer(text) {
 
 </body>
 </html>
+
+
+
+
+
+
+
+
+The fetch() method can also send JSON to a web server.
+Use the POST method to send new data.
+Convert the JavaScript object to JSON text with JSON.stringify().
+
